@@ -1,0 +1,15 @@
+{
+  "name": "trex-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Dyomin Ilya",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
